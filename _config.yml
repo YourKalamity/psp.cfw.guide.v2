@@ -9,17 +9,17 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DSi Guide"
+title                    : "PSP CFW Guide"
 title_separator          : "-"
-name                     : "emiyl"
-description              : "A complete Nintendo DSi homebrew guide, from stock to HiyaCFW."
-url                      : "https://dsi.cfw.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "dsi.cfw.guide"
+name                     : "YourKalamity"
+description              : "A complete PlayStation Portable CFW guide."
+url                      : "https://yourkalamity.github.io/psp.cfw.guide.v2/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "cfw-guide/dsi.cfw.guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/home-page-feature.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "YourKalamity/psp.cfw.guide.v2" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
-logo                     : "/assets/favicon/favicon.ico"
+logo                     : ""
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -42,8 +42,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : jVXoPK_-qzKJp4SScnZYpOIX3yDXfGnAoTBJYixUOwg
-bing_site_verification   : F3532011519E308583A0A2CAF2DD69E8
+google_site_verification : 
+bing_site_verification   : 
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -66,16 +66,16 @@ social:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-152619365-1"
+    tracking_id: ""
     anonymize_ip: false # default
 
 # Site Author
 author:
-  name             : "emiyl"
-  avatar           : "bio-photo.jpg"
-  bio              : "Guide Writer"
+  name             : "kalam"
+  avatar           : ""
+  bio              : "Professional Time Waster"
   location         : "England"
-  email            : "emily@cfw.guide"
+  email            : "m.kalam@protonmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -83,7 +83,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emiyl"
+  github           : "YourKalamity"
   google_plus      :
   keybase          :
   instagram        :
@@ -94,7 +94,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "emiyl0"
+  twitter          : "kalamity03"
   vine             :
   weibo            :
   xing             :
