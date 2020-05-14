@@ -20,7 +20,7 @@ This guide is compatible with all PSP systems including
 - PSP-3000 "Brite"
 - PSP-N1000 "PSPGo"
 - PSP-E1000 "PSP Street"
-{: .notice--info}
+
 
 Thoroughly read all of the introductory pages (including this one!) before proceeding.
 {: .notice--info}
