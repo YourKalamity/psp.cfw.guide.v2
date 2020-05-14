@@ -43,5 +43,5 @@ Your PSP is now running CFW
 
 Infinity has been installed
 
-Continue to [Using PSP CFW](usingPSPCFW/)
+Continue to [Using PSP CFW](usingPSPCFW)
 {: .notice--info}

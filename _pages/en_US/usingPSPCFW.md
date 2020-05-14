@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 title: Using PSP CFW
 redirect_from:
 - /guide/usingPSPCFW
